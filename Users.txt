@@ -1,0 +1,6 @@
+Jon Jones|1234abcd|user
+Tiger Woods|GoatGolfer|user
+dana white|fightingbaldguy|admin
+Lebron James|basketball4life|admin
+bob smith|itsbobbyyagoofy|admin
+megan lee|leeheehee|user
